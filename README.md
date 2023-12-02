@@ -1,1 +1,1 @@
-# KarmaGigaChat
+# Karma - GigaChat
